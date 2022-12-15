@@ -4,18 +4,19 @@ var foldersBin = [
     {name: 'Rush'},
     {name: 'Rush depuis DVR'},
     {
-        name: '3 Elements',
+        name: 'Éléments',
         children: [
-            {name: '1 Videos'},
+            {name: 'Vidéos'},
             {
-                name: '2 Audios',
+                name: 'Audios',
                 children: [
-                    {name: '1 Musiques'},
-                    {name: '2 Voix off'},
-                    {name: '3 FX'}
+                    {name: 'Musiques'},
+                    {name: 'Voix off'},
+                    {name: 'Bruitages'}
                 ]
             },
-            {name: '3 Images'},
+            {name: 'Images'},
+            {name: 'FX'},
         ]
     }
 ];
